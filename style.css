@@ -18,6 +18,15 @@ h1
     text-transform: uppercase;
     font-size: 40px;
 }
+
+.title
+{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: tomato;
+
+}
+
 p
 {
     font-size: 25px;
@@ -26,7 +35,10 @@ p
 .frame
 {
     /* background-color: steelblue; */
-    
+    border-left: solid 3px olivedrab;
+    /* box-sizing: border-box; */
+    padding-left: 20px;
+
     width: 700px;
 }
 
