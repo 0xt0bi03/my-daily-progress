@@ -25,7 +25,8 @@ p
 
 .frame
 {
-    background-color: steelblue;
+    /* background-color: steelblue; */
+    
     width: 700px;
 }
 
