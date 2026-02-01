@@ -3,6 +3,10 @@
     font-family: monospace;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 body
 {
     background-color: #333;
@@ -13,6 +17,7 @@ body
     justify-content: center;
     flex-direction: column;
     gap: 5px;
+
 }
 
 h1
