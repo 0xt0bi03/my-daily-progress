@@ -32,12 +32,16 @@ h1
     text-decoration: none;
     color: inherit;
 }
+#link:hover
+{
+    background-color: black;
+}
 
-/* h2
+h2
 {
     font-size: 30px;
     color: palevioletred;
-} */
+}
 
 p
 {
