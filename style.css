@@ -9,8 +9,9 @@ body
     color: antiquewhite;
 
     display: flex;
-    /* align-items: center; */
+    align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 h1
@@ -37,7 +38,7 @@ p
     font-size: 25px;
 }
 
-.frame
+.frame, .content
 {
     background-color: rgba(112, 128, 144, 0.215);
     border-left: solid 3px olivedrab;
